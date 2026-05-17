@@ -1,2 +1,19 @@
-# Music_Store_Data_Analysis_Using_SQL
-Built a SQL-based data analysis project using music store datasets to extract business insights and improve decision-making. Performed complex queries using joins, aggregations, subqueries, and window functions to analyze customer behavior, sales trends, top-selling genres, artist performance, and revenue generation.
+# Music Store SQL Analysis Project
+
+This project focuses on analyzing a music store database using SQL to extract meaningful business insights. The analysis includes customer behavior, sales trends, top-performing artists, popular music genres, and revenue generation.
+
+## Key Features
+
+* Complex SQL Queries
+* Joins & Subqueries
+* Aggregate Functions
+* Window Functions
+* Business Insight Generation
+
+## Tools Used
+
+* SQL
+* MySQL / PostgreSQL
+* Database Management
+
+The project demonstrates strong SQL problem-solving skills and the ability to transform raw data into actionable insights for business decision-making.
